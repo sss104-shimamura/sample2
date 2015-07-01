@@ -14,7 +14,7 @@
 	<table border="0">
 		<tr>
 			<td>
-				–¼‘O
+				–¼‘O:
 			</td>
 			<td>
 				<input type="text" name="txtName" size="20" maxlength="20" onfocus="this.select()" value=""/>
